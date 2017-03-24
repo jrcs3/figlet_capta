@@ -1,0 +1,23 @@
+{
+  "name": "figlet_capta",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrcs3/figlet_capta.git"
+  },
+  "author": "Jack Stephens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrcs3/figlet_capta/issues"
+  },
+  "homepage": "https://github.com/jrcs3/figlet_capta#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "figlet": "^1.2.0"
+  }
+}
